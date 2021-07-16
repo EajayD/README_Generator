@@ -53,7 +53,9 @@
   
   ## Testing
   
-  Video will go here once I have it recorded
+  Below is a link to a video walkthrough of how the application works and how you could use it.
+
+  <a href ="https://drive.google.com/file/d/1XgXYn8J_ALfflSjIAPitXEiKsY4BBsPT/view?usp=sharing">Walkthrough Video</a>
 
   ## Questions
   
