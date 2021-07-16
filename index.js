@@ -66,7 +66,7 @@ function init() {
     inquire.prompt(questions)
         .then(data => {
             console.log('answers', data);
-            fs.writeFile('README.md', generateMarkdown(data), (err) =>
+            fs.writeFile('GeneratedREADME.md', generateMarkdown(data), (err) =>
             err ? console.error(err): console.log('Success!')
             );
         })

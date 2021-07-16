@@ -1,8 +1,8 @@
-# README_Generator
+# Sample Read Me
 
   ## Description 
   
-  Describes how beautiful you are
+  Describes
 
   ## Table of Contents
 
@@ -16,15 +16,15 @@
   
   ## Installation
   
-  Installing love
+  Installs
 
   ## Usage 
   
-  Use my love and mix it with your love and we create an even bigger love wow
+  Instructs
   
   ## Contributing
   
-  * **You and me**
+  * **Credits**
   
   
   ## License
@@ -36,14 +36,14 @@
   
   ## Testing
   
-  I say hi and you say hello
+  Test
 
   ## Questions
   
-  - [Link to Github](https://github.com/EajayD)
+  - [Link to Github](https://github.com/Github)
 
   or alternatively you can contact me with questions using the email listed below
 
-  Email: Slide into the emails
+  Email: Email
 
 
