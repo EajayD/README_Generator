@@ -1,8 +1,9 @@
 //Package variables
 const inquire = require('inquirer');
 const fs = require('fs');
+const generateMarkdown = require('./utils/generateMarkdown.js')
 
-// TODO: Create an array of questions for user input
+// Array of questions for user
 const questions = [
     {
         type: 'input',
@@ -60,13 +61,17 @@ const questions = [
     },
 ];
 
-inquire.prompt(questions);
+//Function to initialize app
+function init() {
+    inquire.prompt(questions)
+        .then(data => {
+            console.log('answers', data);
+            fs.writeFile('README.md', generateMarkdown(data), (err) =>
+            err ? console.error(err): console.log('Success!')
+            );
+        })
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-function init() {}
+}
 
 // Function call to initialize app
 init();
