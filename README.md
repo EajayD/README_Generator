@@ -37,7 +37,7 @@
 
   ## Usage 
   
-  Use my love and mix it with your love and we create an even bigger love wow
+  Once you run the code above that initiates the program, all you need to do is answer the questions as they appear, and a markdown file will be created at the end once finished
   
   ## Contributing
   
