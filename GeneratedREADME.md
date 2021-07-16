@@ -1,10 +1,10 @@
-# Sample
+# Project Name
 
 [![License](https://img.shields.io/badge/license-BSD--3--Clause-blueviolet)](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Description 
   
-  Desc
+  A brief description will go here
 
   ## Table of Contents
 
@@ -18,15 +18,15 @@
   
   ## Installation
   
-  Install 
+  Install the npm package inquirer
 
   ## Usage 
   
-  Instruc
+  Use this project to create a readme
   
   ## Contributing
   
-  * **Credits**
+  * **Eajay Delos Santos**
   
   
   ## License
@@ -40,14 +40,14 @@
   
   ## Testing
   
-  Okay
+  Testing examples will go here
 
   ## Questions
   
-  - [Link to Github](https://github.com/Wow)
+  - [Link to Github](https://github.com/EajayD)
 
   or alternatively you can contact me with questions using the email listed below
 
-  Email: DM sliding
+  Email: edelos1995@gmail.com
 
 
