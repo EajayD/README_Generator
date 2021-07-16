@@ -1,6 +1,6 @@
 # Sample
 
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-blueviolet)](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Description 
   
@@ -18,21 +18,21 @@
   
   ## Installation
   
-  Install
+  Install 
 
   ## Usage 
   
-  Instruct
+  Instruc
   
   ## Contributing
   
-  * **Credit**
+  * **Credits**
   
   
   ## License
   
 
-  [MIT](https://opensource.org/licenses/MIT)
+  [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause)
   
   
   ---
@@ -40,14 +40,14 @@
   
   ## Testing
   
-  Tes
+  Okay
 
   ## Questions
   
-  - [Link to Github](https://github.com/Git)
+  - [Link to Github](https://github.com/Wow)
 
   or alternatively you can contact me with questions using the email listed below
 
-  Email: Emai
+  Email: DM sliding
 
 
