@@ -1,8 +1,10 @@
-# Sample Read Me
+# Sample
+
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
   ## Description 
   
-  Describes
+  Desc
 
   ## Table of Contents
 
@@ -16,34 +18,36 @@
   
   ## Installation
   
-  Installs
+  Install
 
   ## Usage 
   
-  Instructs
+  Instruct
   
   ## Contributing
   
-  * **Credits**
+  * **Credit**
   
   
   ## License
   
-  MIT
+
+  [MIT](https://opensource.org/licenses/MIT)
+  
   
   ---
   
   
   ## Testing
   
-  Test
+  Tes
 
   ## Questions
   
-  - [Link to Github](https://github.com/Github)
+  - [Link to Github](https://github.com/Git)
 
   or alternatively you can contact me with questions using the email listed below
 
-  Email: Email
+  Email: Emai
 
 

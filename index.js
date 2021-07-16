@@ -31,14 +31,14 @@ const questions = [
 
     {
         type: 'input',
-        message: 'Please credit yourself and any collaboraters/resources in this section.',
+        message: 'Please credit yourself and any collaboraters/resources that contributed in this section.',
         name : 'credits',
     },
 
     {
        type: 'list',
        message: 'Please select a license',
-       choices: ['MIT', 'GNU GPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'Unlicense', 'None'],
+       choices: ['MIT', 'GPL-3.0', 'MPL-2.0', 'Apache-2.0', 'BSD-3-Clause'],
        name: 'license'
     },
 
