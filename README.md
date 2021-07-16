@@ -1,8 +1,10 @@
 # README_Generator
 
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+
   ## Description 
   
-  Describes how beautiful you are
+  This is a README Generator that will help you get the hang of created markdown files to add to any of your future repositories. It will ask you a series of questions in which you will answer to the best of your ability and once you have everything the program will generate a nice Markdown file based on your inputs.
 
   ## Table of Contents
 
@@ -15,8 +17,23 @@
   
   
   ## Installation
-  
-  Installing love
+  First you want to clone this repository into your system
+
+  ```
+  git clone git@github.com:EajayD/README_Generator.git
+  ```
+
+  Then you want to install the npm package 
+
+  ```
+  npm i inquirer
+  ```
+
+  Once you have the node modules you can run the command below in your terminal to initiate the program
+
+  ```
+  node index.js
+  ```
 
   ## Usage 
   
@@ -24,19 +41,19 @@
   
   ## Contributing
   
-  * **You and me**
+  * **Eajay Delos Santos**
   
   
   ## License
   
-  MIT
+ [MIT License](https://opensource.org/licenses/MIT)
   
   ---
   
   
   ## Testing
   
-  I say hi and you say hello
+  Video will go here once I have it recorded
 
   ## Questions
   
@@ -44,6 +61,6 @@
 
   or alternatively you can contact me with questions using the email listed below
 
-  Email: Slide into the emails
+  Email: edelos1995@gmail.com
 
 
